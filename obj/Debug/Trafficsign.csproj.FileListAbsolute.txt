@@ -1,0 +1,20 @@
+C:\Moble\Advanced\Trafficsign\bin\Debug\Trafficsign.exe.config
+C:\Moble\Advanced\Trafficsign\bin\Debug\Trafficsign.exe
+C:\Moble\Advanced\Trafficsign\bin\Debug\Trafficsign.pdb
+C:\Moble\Advanced\Trafficsign\obj\Debug\Trafficsign.csproj.AssemblyReference.cache
+C:\Moble\Advanced\Trafficsign\obj\Debug\Trafficsign.Properties.Resources.resources
+C:\Moble\Advanced\Trafficsign\obj\Debug\Trafficsign.csproj.GenerateResource.cache
+C:\Moble\Advanced\Trafficsign\obj\Debug\Trafficsign.csproj.CoreCompileInputs.cache
+C:\Moble\Advanced\Trafficsign\obj\Debug\Trafficsign.exe
+C:\Moble\Advanced\Trafficsign\obj\Debug\Trafficsign.pdb
+C:\Moble\Advanced\Trafficsign (2)\bin\Debug\Trafficsign.exe.config
+C:\Moble\Advanced\Trafficsign (2)\bin\Debug\Trafficsign.exe
+C:\Moble\Advanced\Trafficsign (2)\bin\Debug\Trafficsign.pdb
+C:\Moble\Advanced\Trafficsign (2)\obj\Debug\Trafficsign.csproj.AssemblyReference.cache
+C:\Moble\Advanced\Trafficsign (2)\obj\Debug\Trafficsign.LogMessage.resources
+C:\Moble\Advanced\Trafficsign (2)\obj\Debug\Trafficsign.Properties.Resources.resources
+C:\Moble\Advanced\Trafficsign (2)\obj\Debug\Trafficsign.csproj.GenerateResource.cache
+C:\Moble\Advanced\Trafficsign (2)\obj\Debug\Trafficsign.csproj.CoreCompileInputs.cache
+C:\Moble\Advanced\Trafficsign (2)\obj\Debug\Trafficsign.exe
+C:\Moble\Advanced\Trafficsign (2)\obj\Debug\Trafficsign.pdb
+C:\Moble\Advanced\Trafficsign\obj\Debug\Trafficsign.Form1.resources
